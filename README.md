@@ -1,5 +1,5 @@
 # Getting-Started-with-Data-Visualization-in-R
-Este proyecto es parte del curso "Getting Started with Data Visualization in R" que ofrece la plataforma Coursera
+Este proyecto es parte del curso "Getting Started with Data Visualization in R" dictado por la Universidad Johns Hopkins a través de la plataforma online Coursera.
 
 
 Los archivos que se encuentran dentro de este repositorio corresponden a las evaluaciones parciales (Week 1, 2 y 3) y la evaluación final del curso "Getting Started with Data Visualization in R" que ofrece la plataforma Coursera.
